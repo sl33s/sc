@@ -1,5 +1,4 @@
--- Strong Aim-Assist (LocalScript)
--- للاستخدام داخل لعبتك الخاصة فقط
+-- Strong Aim-Assist (LocalScript)ط
 -- مميزات: FOV, Aim strength, Prediction (lead), smoothing, team check, tool check, toggle
 
 local Players = game:GetService("Players")
